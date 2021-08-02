@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently open for working!
 - 🌱 I’m currently learning Ruby on Rails on [The Odin Project](https://www.theodinproject.com)
+- 👯 I’m looking to collaborate on Open Source projects
 - 📫 How to reach me: [lauroribeirola@hotmail.com](mailto:lauroribeirola@hotmail.com)
-
+##
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauroribeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
